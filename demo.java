@@ -1,1 +1,12 @@
-this is venky
+class demo
+{ 
+     void DEPOSITE()
+     {
+      ............
+     }
+     void WITHDRAW()
+     {
+      ............
+     }
+
+}
